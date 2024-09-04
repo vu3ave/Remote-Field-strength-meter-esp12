@@ -1,3 +1,13 @@
+# Remote-Field-strength-meter-HARDWARE ASSEMBLY
+> 
+> 
+
+![](https://raw.githubusercontent.com/vu3ave/Remote-Field-strength-meter-esp12/main/IMG/RFSM.jpg)> 
+>
+>  
+> 
+
+
 # Remote-Field-strength-meter-esp12
 > Remote HF/VHF  fsm using ESP12 module
 > 
