@@ -1,7 +1,7 @@
 # Remote-Field-strength-meter-HARDWARE ASSEMBLY
-> 
-> 
-
+>
+>[![REMOTE FSM](https://img.youtube.com/vi/_oPvPgSfpCI/0.jpg)](https://www.youtube.com/watch?v=_oPvPgSfpCI)
+>
 ![](https://raw.githubusercontent.com/vu3ave/Remote-Field-strength-meter-esp12/main/IMG/RFSM.jpg)> 
 >
 >  
